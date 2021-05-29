@@ -406,7 +406,7 @@ func main() {
 
 	})
 
-	log.Println("[INFO] Server listening")
+	log.Println("Server listening")
 	if err := http.ListenAndServe(":8080", nil); err != nil {
 		log.Fatal("ListenAndServe: ", err)
 	}

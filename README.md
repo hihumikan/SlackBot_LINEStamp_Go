@@ -1,7 +1,24 @@
-# Slackbot-LINESTAMP-Bot
+---
+title: 'Slackbot-LINEstamp-go'
+disqus: hackmd
+---
+Slackbot-LINEstamp-go
+=====================
 
-* 実行手順
-  * クローン
-  * ngrok 8080を立ち上げる
-  * go run main.go
-  * ngrokのURLをslackAPIに貼り付け
+## Table of Contents
+
+[toc]
+
+## Beginners Guide
+
+If you are a total beginner to this, start here!
+
+1. ```＄ git clone https://github.com/hihumikan/SlackBot_LINEStamp_Go.git```
+2. ```＄ ngrok 8080```
+3. ```$ go run main.go```
+4. Configure your slackbot
+
+参考文献
+--------
+
+> https://qiita.com/frozenbonito/items/cf75dadce12ef9a048e9
